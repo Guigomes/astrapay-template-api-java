@@ -121,12 +121,12 @@
 
 	<profiles>
 		<profile>
-			<id>dev</id>
+			<id>hml</id>
 			<activation>
 				<activeByDefault>true</activeByDefault>
 			</activation>
 			<properties>
-				<spring.profile.active>dev</spring.profile.active>
+				<spring.profile.active>hml</spring.profile.active>
 			</properties>
 		</profile>
 		<profile>
